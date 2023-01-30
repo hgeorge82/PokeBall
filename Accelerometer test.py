@@ -1,6 +1,7 @@
-from adafruit_display_text
+#type: ignore
 import board
 import busio
+from adafruit_display_text import 
 import adafruit_mpu6050
 
 sda_pin=board.GP16
@@ -24,5 +25,4 @@ while True:
 
     else: 
     print("don't give up")
-    
     
