@@ -1,5 +1,5 @@
 # Pokemon ball project
-With the slingshot we're gonna shoot the pokemon ball and measure the acceleration with Accelerometer and with GPS we're going to measure 
+With the slingshot we're gonna shoot the pokemon ball and measure the acceleration with Accelerometer and with GPS we're going to measure the altitude 
 
 
 [Project plannning]([https://docs.google.com/document/d/18q5UjC7FsxY_L4OF8gpAkfut8QNd4xaJmoQvEK5Y6iM/edit#])
@@ -20,6 +20,9 @@ The requirements for this project are pico, GPS, PowerBoost, Accelerometer, Brea
 ### Progress pictures
 <img src="https://github.com/hgeorge82/UFO-Drone/blob/main/Pictures/project%20planning%20drawing%20%20(2).jpg?raw=true" width="400">
 This is our final drawing 
+
+<img src="https://github.com/hgeorge82/UFO-Drone/blob/main/Pictures/breadboard.jpg?raw=true" width="400">
+This is how everything will be on a breadboard.
 
 
 ## Final_Reflections
