@@ -30,6 +30,6 @@ Today we got our pokemon ball printed. We put the board inside the pokemon ball 
 ## Final_Reflections
 
 ### CAD Relection-Mariam
-In the beginning we had no idea how we want this project to look like, so we started our first design with dog bowl  
+In the beginning we had no idea how we want this project to look like, so we started our first design with a dog bowl, then we went from dog bowl to a Pokemon shape. At first it was kind of confusing on how to create a bowl shape. Then Mr. Miller told us that we can use the revolve tool to make a bowl. I knew the revolve tool, but I never knew how to use it, so learning how to use the revolve tool was really interesting and helpful. It was kind of diffcult 
 
 ### Code Relection-Hope
