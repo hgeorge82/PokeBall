@@ -30,5 +30,6 @@ Today we got our pokemon ball printed. We put the board inside the pokemon ball 
 ## Final_Reflections
 
 ### CAD Relection-Mariam
+In the beginning we had no idea how we want this project to look like, so we started our first design with dog bowl  
 
 ### Code Relection-Hope
