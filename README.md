@@ -10,6 +10,8 @@ This is our Onshape link
 ### The final project pricture and wiring
 <img src="https://github.com/hgeorge82/UFO-Drone/blob/main/Pictures/the%20final%20look.png?raw=true" width="400">
 This is the final look of the pokemon ball
+<img src="https://github.com/hgeorge82/UFO-Drone/blob/main/Pictures/closer%20look.jpg?raw=true" width="400">
+This is the picture when we actually 3D printed the pokemon ball and painted it. 
 
 <img src="https://github.com/hgeorge82/UFO-Drone/blob/main/Pictures/inside%20the%20pokemon%20ball.png?raw=true" width="400">
 This is what the inside looks like. 
