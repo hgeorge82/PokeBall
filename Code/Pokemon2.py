@@ -2,7 +2,7 @@
 import time
 import board
 import busio
-import pulseio
+import pwmio
 
 import adafruit_gps #importing things
 
@@ -13,6 +13,17 @@ TONE_FREQ = [ 440,  # C4
               349,  # G4
               440,  # A4
               440 ] # B4
+
+OFF = 0
+ON = 2**15
+
+# Create piezo buzzer PWM output.
+#buzzer = pulseio.PWMOut(board.GP2, frequency=5000, duty_cycle =0)
+buzzer = pwmio.PWMOut(board.GP14, frequency=660, duty_cycle=0, variable_frequency=True)
+
+# Start at the first note and start making sound.
+#buzzer.frequency = TONE_FREQ[0]
+buzzer.duty_cycle = OFF  # 32768 value is 50% duty cycle, a square wave. 
 
 #sets TX and RX pins. Sets baudrate as well #9600 baudrate = 9600 bit per second 
 uart = busio.UART(board.GP4, board.GP5, baudrate=9600, timeout=10) #
@@ -39,6 +50,7 @@ with open("/data.csv", "w") as datalog: #
             print("Waiting for fix...")
             continue
         if played == 0:
+            buzzer.duty_cycle = ON
             for i in range(len(TONE_FREQ)):
                 buzzer.frequency = TONE_FREQ[i]
                 time.sleep(0.5)  # Half second delay.
@@ -46,7 +58,8 @@ with open("/data.csv", "w") as datalog: #
             for i in range(len(TONE_FREQ)-1, -1, -1):
                 buzzer.frequency = TONE_FREQ[i]
                 time.sleep(0.5)
-            played = 1    
+            played = 1 
+            buzzer.duty_cycle = OFF   
             
         #gps_altitude.append(gps.altitude_m)
         #gps_speed.append(gps.speed_knots)
