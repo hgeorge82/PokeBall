@@ -13,16 +13,24 @@ With the slingshot we're gonna shoot the pokemon ball and measure the altitude a
 This is the picture when we actually 3D printed the pokemon ball and painted it. 
 
 <img src="https://github.com/hgeorge82/UFO-Drone/blob/main/Pictures/inside%20the%20pokemon%20ball.png?raw=true" width="400">
-This is what the inside looks like. 
+This is what the inside looks like virually and this is how it looks in person.
+<img src="https://github.com/hgeorge82/UFO-Drone/blob/main/Pictures/inside%20.jpg?raw=true" width="400">
+The red switch is when we are switching bewteen code mode and data mode. 
 
 ### What are the requirements for this assignment?
 The requirements for this project are pico, GPS, PowerBoost, Accelerometer, Breadboard, USB adapter, Wires, bolts and nuts.
 
 ### Progress pictures
+
+This is what our first design looked like. We didn't really knew how our design would look like, so we came up with this design. 
+<img src="https://github.com/hgeorge82/UFO-Drone/blob/main/Pictures/dog%20bowl.png?raw=true" width="400">
+
 <img src="https://github.com/hgeorge82/UFO-Drone/blob/main/Pictures/project%20planning%20drawing%20%20(2).jpg?raw=true" width="400">
 This is our final drawing 
+
 <img src="https://github.com/hgeorge82/UFO-Drone/blob/main/Pictures/breadboard.jpg?raw=true" width="400">
 This is how everything will be on a breadboard.
+
 <img src="https://github.com/hgeorge82/UFO-Drone/blob/main/Pictures/printed.jpg?raw=true" width="400">
 <img src="https://github.com/hgeorge82/UFO-Drone/blob/main/Pictures/inside.jpg?raw=true" width="400"> 
 Today we got our pokemon ball printed. We put the board inside the pokemon ball to see if it fits. Only 2 holes places are in the right place I am not sure why the other holes are not in the right place, but it still works and the board is where it suppose to be, so i fine. 
