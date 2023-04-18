@@ -15,7 +15,7 @@ This is the picture when we actually 3D printed the pokemon ball and painted it.
 <img src="https://github.com/hgeorge82/UFO-Drone/blob/main/Pictures/inside%20the%20pokemon%20ball.png?raw=true" width="400">
 This is what the inside looks like virually and this is how it looks in person.
 <img src="https://github.com/hgeorge82/UFO-Drone/blob/main/Pictures/inside%20.jpg?raw=true" width="400">
-The red switch is when we are switching bewteen code mode and data mode. 
+The red switch is when we are switching bewteen code mode and data mode. Red wire = code mode Black wire = data mode 
 
 ### What are the requirements for this assignment?
 The requirements for this project are pico, GPS, PowerBoost, Accelerometer, Breadboard, USB adapter, Wires, bolts and nuts.
