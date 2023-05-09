@@ -33,8 +33,23 @@ This is how everything will be on a breadboard.
 
 <img src="https://github.com/hgeorge82/UFO-Drone/blob/main/Pictures/printed.jpg?raw=true" width="400">
 <img src="https://github.com/hgeorge82/UFO-Drone/blob/main/Pictures/inside.jpg?raw=true" width="400"> 
-Today we got our pokemon ball printed. We put the board inside the pokemon ball to see if it fits. Only 2 holes places are in the right place I am not sure why the other holes are not in the right place, but it still works and the board is where it suppose to be, so i fine. 
+Today we got our pokemon ball printed. We put the board inside the pokemon ball to see if it fits. Only 2 holes places are in the right place I am not sure why the other holes are not in the right place, but it still works and the board is where it suppose to be, overall all it was good
 
+<img src="https://github.com/hgeorge82/UFO-Drone/blob/main/Pictures/crack%20open.jpg?raw=true" width="400">
+This is right after we did the atcual first launched, you can that it hit the ground pretty hard, a lot of damage was done to it
+<img src="https://github.com/hgeorge82/UFO-Drone/blob/main/Pictures/as%20soon%20as%20the%20pico%20out.jpg?raw=true" width="400">
+<img src="https://github.com/hgeorge82/UFO-Drone/blob/main/Pictures/as%20soon%20as%20we%20open.jpg?raw=true" width="400"> 
+This is when we first opend the ball, when we opened it the pico got stuck on the top you can see the spot of the pico. You can also see that the GPS, powerboost came out of the headers and the puzzer is broken
+<img src="https://github.com/hgeorge82/UFO-Drone/blob/main/Pictures/together.jpg?raw=true" width="400">
+This is from our first launched, as you see the puzzer is fully broken, everything is missplaced (got out of the headers)
+
+## Launches 
+![first launch](https://github.com/hgeorge82/UFO-Drone/assets/71345399/3e25ce41-f69f-438a-8127-bb3f8a4d066d)
+This is our first test launch, the launch was ok, some materials inside it got missplaced, but overall it was good
+![2nd launch](https://github.com/hgeorge82/UFO-Drone/assets/71345399/c3a3cfcc-e579-404c-aa49-91bf7dd349a2)
+This is our 1st actually launch. We had a pretty good lauch, but it hit the ground there was a lot of damage done to it. For instance the ball was creaked open, and all of the materials inside it were broken, the pico support was broken
+
+This is our 3rd launch. it was pretty good, the powerboost and came out of it's support, but the pico board was in it's place. I think adding the foam and making the support really a good idea because it helped the pico board stay in place. Our next goal is to get the materials stay in place
 
 ## Final_Reflections
  
