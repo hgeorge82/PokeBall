@@ -46,8 +46,14 @@ This is from our first launched, as you see the puzzer is fully broken, everythi
 ## Launches 
 ![first launch](https://github.com/hgeorge82/UFO-Drone/assets/71345399/3e25ce41-f69f-438a-8127-bb3f8a4d066d)
 This is our first test launch, the launch was ok, some materials inside it got missplaced, but overall it was good
+
 ![2nd launch](https://github.com/hgeorge82/UFO-Drone/assets/71345399/c3a3cfcc-e579-404c-aa49-91bf7dd349a2)
 This is our 1st actually launch. We had a pretty good lauch, but it hit the ground there was a lot of damage done to it. For instance the ball was creaked open, and all of the materials inside it were broken, the pico support was broken
+
+![3rd launch](https://github.com/hgeorge82/UFO-Drone/assets/71345399/36f4aad4-7bf3-403f-a819-d14eff19fa2c)
+This is our 3rd launch, some materials did got misplaced, but no damged was done
+
+
 
 This is our 3rd launch. it was pretty good, the powerboost and came out of it's support, but the pico board was in it's place. I think adding the foam and making the support really a good idea because it helped the pico board stay in place. Our next goal is to get the materials stay in place
 
