@@ -50,12 +50,11 @@ This is our first test launch, the launch was ok, some materials inside it got m
 ![2nd launch](https://github.com/hgeorge82/UFO-Drone/assets/71345399/c3a3cfcc-e579-404c-aa49-91bf7dd349a2)
 This is our 1st actually launch. We had a pretty good lauch, but it hit the ground there was a lot of damage done to it. For instance the ball was creaked open, and all of the materials inside it were broken, the pico support was broken
 
-![3rd launch](https://github.com/hgeorge82/UFO-Drone/assets/71345399/36f4aad4-7bf3-403f-a819-d14eff19fa2c)
+https://github.com/hgeorge82/UFO-Drone/assets/71345399/250816aa-9ca6-41dc-8d46-f4c2010625a6
+
 This is our 3rd launch, some materials did got misplaced, but no damged was done
 
 
-
-This is our 3rd launch. it was pretty good, the powerboost and came out of it's support, but the pico board was in it's place. I think adding the foam and making the support really a good idea because it helped the pico board stay in place. Our next goal is to get the materials stay in place
 
 ## Final_Reflections
  
