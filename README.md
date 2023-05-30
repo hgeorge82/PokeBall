@@ -64,6 +64,10 @@ https://github.com/hgeorge82/UFO-Drone/assets/71345399/8b238c23-b037-465e-819f-f
 
 This is our 1st actually launch. we did 2 launches this day, because why not you know. We had a pretty good lauch, but it hit the ground pretty hard and a lot of damage was done to it. For instance the ball was creaked open, and all of the materials inside it were broken, the pico support was broken and the pico support was broken
 
+Data from this launch
+
+<img src = "https://github.com/hgeorge82/PokeBall/blob/main/Pictures/spped.png">
+
 https://github.com/hgeorge82/UFO-Drone/assets/71345399/250816aa-9ca6-41dc-8d46-f4c2010625a6
 
 This is our 3rd launch, some materials did got misplaced, but no damged was done
