@@ -10,7 +10,9 @@ With the slingshot we're gonna shoot the pokemon ball and measure the altitude a
 ## Code
 [Pizeo buzzer code](https://github.com/hgeorge82/UFO-Drone/blob/main/Code/Piezo.py)
 
-This is the picture when we actually 3D printed the pokemon ball and painted it. 
+This is the picture when we actually 3D printed the pokemon ball and painted it.
+
+[Our circuitry](https://github.com/hgeorge82/PokeBall/blob/main/Pictures/IMG-6511.JPG)
 
 <img src="https://github.com/hgeorge82/UFO-Drone/blob/main/Pictures/inside%20the%20pokemon%20ball.png?raw=true" width="400">
 This is what the inside looks like virually and this is how it looks in person.
