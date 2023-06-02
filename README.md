@@ -80,4 +80,4 @@ This is our 3rd launch, some materials did got misplaced, but no damged was done
 This year has been a really challenging roller-coaster. In the beginning we had no idea how we want this project to look like, so we started our first design with a dog bowl, then we went from dog bowl to a Pokemon shape. At first it was kind of confusing on how to create a bowl shape. Then Mr. Miller told us that we can use the revolve tool to make a bowl. I knew the revolve tool, but I never knew how to use it, so learning how to use the revolve tool was really interesting and helpful. After I was done with CAD, and got the pokemon ball printed. I tried to get start on soldering, thanks to Hope she taught me how to solder. We had so many obstacles   
 
 ### Code Relection-Hope
-In the beginning of this project I was very dejeced and had little hope for this project since it was our back up plan. I did not kne
+When we first started planning for our project this is not what I imagined I would be doing. 
