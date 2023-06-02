@@ -70,7 +70,7 @@ Data from this launch
 
 https://github.com/hgeorge82/UFO-Drone/assets/71345399/250816aa-9ca6-41dc-8d46-f4c2010625a6
 
-This is our 3rd launch, some materials did got misplaced, but no damged was done
+This is our 3rd launch, some materials did got misplaced, but no damgage was done
 
 
 
@@ -80,4 +80,4 @@ This is our 3rd launch, some materials did got misplaced, but no damged was done
 This year has been a really challenging roller-coaster. In the beginning we had no idea how we want this project to look like, so we started our first design with a dog bowl, then we went from dog bowl to a Pokemon shape. At first it was kind of confusing on how to create a bowl shape. Then Mr. Miller told us that we can use the revolve tool to make a bowl. I knew the revolve tool, but I never knew how to use it, so learning how to use the revolve tool was really interesting and helpful. After I was done with CAD, and got the pokemon ball printed. I tried to get start on soldering, thanks to Hope she taught me how to solder. We had so many obstacles   
 
 ### Code Relection-Hope
-When we first started planning for our project this is not what I imagined I would be doing. 
+When we first started planning for our project this is not what I imagined I would be doing. We first planned for our project to be much more complicated and it would definitly take a while. The pokeball project was our back up plan. 
