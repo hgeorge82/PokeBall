@@ -3,9 +3,9 @@
 ### Objective
 With the slingshot we're gonna shoot the pokemon ball and measure the altitude and speed with GPS.
 
-[More in-depth project planning](https://docs.google.com/document/d/18q5UjC7FsxY_L4OF8gpAkfut8QNd4xaJmoQvEK5Y6iM/edit#) 
-[Our onshape link](https://cvilleschools.onshape.com/documents?resourceType=resourcecompanyowner&nodeId=5ec2efaff0809e0f42510b50)
+[More in-depth project planning](https://docs.google.com/document/d/1b-AdXsT76GcYrXLd76GMydtMHCL0epGERxq1ifH3iTY/edit?usp=sharing)
 
+[Our onshape link](https://cvilleschools.onshape.com/documents?resourceType=resourcecompanyowner&nodeId=5ec2efaff0809e0f42510b50)
 
 ## Code
 [Pizeo buzzer code](https://github.com/hgeorge82/UFO-Drone/blob/main/Code/Piezo.py)
@@ -76,8 +76,8 @@ This is our 3rd launch, some materials did got misplaced, but no damgage was don
 
 ## Final_Reflections
  
-### CAD Relection-Mariam
-This year has been a really challenging roller-coaster. In the beginning we had no idea how we want this project to look like, so we started our first design with a dog bowl, then we went from dog bowl to a Pokemon shape. At first it was kind of confusing on how to create a bowl shape. Then Mr. Miller told us that we can use the revolve tool to make a bowl. I knew the revolve tool, but I never knew how to use it, so learning how to use the revolve tool was really interesting and helpful. After I was done with CAD, and got the pokemon ball printed. I tried to get start on soldering, thanks to Hope she taught me how to solder. We had so many obstacles. For instance, when we were trying to get a fix for the GPA it wasn't working at first I am not really sure why, but I think it had something to do with the code. After we got that fixed after a couple of weeks, then we were not getting data which was so annoying. One time we got data and then when we were done with it. We thought it was finished, but the next day when we tested it again it wasn't working. OMG it was so annoying we couldn't tell what was wrong because it was it as working the day before and now when we tried it, so we kept trying and trying until we got it. After our real launch all of our materials got displaced and out bottom pokeomon ball got brpo
+### Mariam
+This year has been a really challenging roller-coaster. In the beginning we had no idea how we want this project to look like, so we started our first design with a dog bowl, then we went from dog bowl to a Pokemon shape. At first it was kind of confusing on how to create a bowl shape. Then Mr. Miller told us that we can use the revolve tool to make a bowl. I knew the revolve tool, but I never knew how to use it, so learning how to use the revolve tool was really interesting and helpful. After I was done with CAD, and got the pokemon ball printed. I tried to get start on soldering, thanks to Hope she taught me how to solder. We had so many obstacles. For instance, when we were trying to get a fix for the GPA it wasn't working at first I am not really sure why, but I think it had something to do with the code. After we got that fixed after a couple of weeks, then we were not getting data which was so annoying. One time we got data and then when we were done with it. We thought it was finished, but the next day when we tested it again it wasn't working. OMG it was so annoying we couldn't tell what was wrong because it was it as working the day before and now when we tried it, so we kept trying and trying until we got it. Our real launch was a blast all of our materials got displaced and the support was broken, so we had to rebuil        d it. This time the support were stronger and we added foam to keep the pico from moving and it worked out pretty good. Overall I had so much fun doing this project and I learned a lot.  
 
 ### Hope
 When we first started planning for our project this is not what I imagined I would be doing. We first planned for our project to be a UFO-Drone while the pokeball project was our back up plan. Our main code was our GPS code. I have never used GPS so this was very difficult to navigate. Using the example code we ran into a problem, the GPS was not collecting any data. In order to fix this problem we had to do some more research and ask Mr. Miller a bunch of questions in order for the code to work. Our code was working but we were struggling to colect data from the GPS. A few more questions and changes later we finally collected some data. Overall I defintely learned something... Do Not Use GPS For Any Projects! 
